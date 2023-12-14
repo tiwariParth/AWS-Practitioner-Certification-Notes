@@ -3,6 +3,7 @@
 Welcome fellow cloud enthusiast! This repository houses my notes for the AWS Certified Cloud Practitioner exam, meticulously gathered during my journey towards cloud mastery. ☁️
 
 ## Source of Knowledge:
+[Check Out here](https://explore.skillbuilder.aws/learn/course/134/play/93606/aws-cloud-practitioner-essentials)
 
 Primarily based on the AWS Training Platform: comprehensive courses, hands-on labs, and insightful demos provided by AWS experts.
 Supplemented with additional resources like white papers, blog posts, and practice exams for a well-rounded understanding.
